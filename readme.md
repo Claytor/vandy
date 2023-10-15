@@ -23,3 +23,31 @@ The audience is a non-technical academic board that oversees the departments ann
 
 ***BONUS
 **Supplementing the provided prompts, include any additional charts or visualizations that shed light on their  j jmuuuuuuee and their level of satisfaction with the chosen degree
+
+Overall graph should be bigger. 1 facet for each department
+
+- hypothesis
+   - if you are more happy with your degree then you are more likely to seek out a position within the area of your degree?
+** - Recreate #5 faceted by department** 
+      - Do only for neutral, willing, and eager
+      - Same axis for all facets
+      - Be careful about the axis
+
+
+
+
+fig_job_hobby.update_layout(xaxis_title='Percent',
+                            yaxis_title='Hobby',
+                            legend_title='Part-Time Job?',
+                            paper_bgcolor='rgba(0,0,0,0)',
+                            plot_bgcolor='rgba(0,0,0,0)',
+                            title={'y':0.95,
+                                   'x':0.5,
+                                   'xanchor': 'center',
+                                   'yanchor': 'top'},
+                             yaxis=dict(categoryorder='array', categoryarray=hobby_job_order))
+
+
+
+
+

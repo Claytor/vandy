@@ -1,236 +1,236 @@
 cert_course,gender,department,mark_10th,mark_12th,mark_college,hobbies,study_hr_day,study_window,salary_expected,degree_happy,career_in_degree,social_video_hr_day,travel_hr_day,stress_status,financial_status,job_pt
-No,Male,BCA,76.0,70.0,67.0,Sports,1 to 2,Morning,55100,Degree: Unhappy,0.5,1 to 1.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,75.0,57.0,55.0,Sports,0 to 0.5,Morning,55100,Degree: Happy,0.5,1.5 to 2,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,B.com ISM,67.0,70.0,60.0,Sports,4+,Anytime,55100,Degree: Happy,1.0,0 to 0.5,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,89.0,69.0,80.0,Video Games,3 to 4,Morning,55100,Degree: Happy,0.75,1 to 1.5,3+,Stress: Good,Finances: Good,Yes
-No,Male,BCA,80.0,70.0,60.0,Video Games,0 to 0.5,Anytime,55200,Degree: Happy,0.25,0 to 0.5,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,B.com ISM,67.0,54.0,86.0,Cinema,0.5 to 1,Morning,55300,Degree: Happy,1.0,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,B.com ISM,55.0,57.0,60.0,Sports,0.5 to 1,Anytime,55400,Degree: Happy,0.25,0 to 0.5,0 to 0.5,Stress: Awful,Finances: Bad,No
-Yes,Male,BCA,50.0,50.0,60.0,Reading books,0.5 to 1,Night,55400,Degree: Happy,0.75,0 to 0.5,1 to 1.5,Stress: Bad,Finances: Good,No
-Yes,Male,BCA,84.0,55.0,70.0,Video Games,0.5 to 1,Anytime,55400,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Good,No
-Yes,Male,BCA,85.0,60.0,60.0,Sports,0.5 to 1,Anytime,55500,Degree: Happy,0.75,1 to 1.5,2 to 2.5,Stress: Bad,Finances: Good,No
-Yes,Female,Commerce,90.4,80.0,80.0,Cinema,1 to 2,Anytime,55500,Degree: Happy,0.75,0.5 to 1,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Female,BCA,95.0,75.0,85.0,Reading books,2 to 3,Anytime,55500,Degree: Happy,0.5,1 to 1.5,1.5 to 2,Stress: Good,Finances: Good,No
-Yes,Male,BCA,86.0,68.0,70.0,Sports,0.5 to 1,Anytime,55600,Degree: Happy,1.0,1 to 1.5,1 to 1.5,Stress: Good,Finances: Bad,Yes
-Yes,Male,BCA,91.0,81.0,75.0,Reading books,0.5 to 1,Anytime,55600,Degree: Happy,0.75,0.5 to 1,1.5 to 2,Stress: Good,Finances: Bad,No
-Yes,Male,B.com Accounting & Finance,75.0,90.0,85.0,Sports,4+,Anytime,55600,Degree: Happy,1.0,0.5 to 1,1.5 to 2,Stress: Fabulous,Finances: Bad,No
-No,Male,BCA,75.0,68.0,70.0,Sports,0 to 0.5,Anytime,56000,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Good,Finances: Good,No
-No,Male,BCA,77.0,87.0,60.0,Video Games,0.5 to 1,Anytime,56100,Degree: Unhappy,0.25,0.5 to 1,1 to 1.5,Stress: Bad,Finances: Bad,No
-Yes,Male,BCA,90.0,62.0,79.0,Reading books,0.5 to 1,Night,56100,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Bad,No
-Yes,Female,Commerce,95.6,86.0,85.0,Cinema,1 to 2,Anytime,56100,Degree: Happy,0.75,0.5 to 1,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,Commerce,88.0,85.0,90.0,Sports,0.5 to 1,Morning,56100,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,B.com Accounting & Finance,66.0,65.0,60.0,Reading books,1 to 2,Morning,56200,Degree: Happy,0.5,0.5 to 1,0.5 to 1,Stress: Fabulous,Finances: Good,No
-Yes,Male,BCA,69.0,60.0,68.0,Video Games,0 to 0.5,Night,56200,Degree: Happy,1.0,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,88.0,81.0,80.0,Cinema,0.5 to 1,Morning,56200,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,BCA,85.6,70.0,65.0,Cinema,1 to 2,Anytime,56300,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Awful,Finances: Bad,No
-No,Male,BCA,85.0,50.0,70.0,Video Games,0.5 to 1,Anytime,56300,Degree: Happy,0.75,1.5 to 2,0 to 0.5,Stress: Bad,Finances: Bad,No
-Yes,Female,BCA,91.0,86.0,90.0,Cinema,0.5 to 1,Morning,56300,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,78.0,55.0,70.0,Reading books,3 to 4,Anytime,56400,Degree: Happy,1.0,0.5 to 1,0.5 to 1,Stress: Awful,Finances: Good,Yes
-Yes,Male,BCA,90.0,64.0,80.0,Reading books,0.5 to 1,Anytime,56400,Degree: Happy,0.75,0 to 0.5,1 to 1.5,Stress: Bad,Finances: Bad,No
-Yes,Female,BCA,84.2,64.8,84.0,Sports,0.5 to 1,Anytime,56400,Degree: Happy,0.75,0 to 0.5,1.5 to 2,Stress: Good,Finances: Good,No
-No,Male,Commerce,50.0,50.0,35.0,Sports,3 to 4,Morning,56500,Degree: Happy,0.75,2+,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Male,BCA,65.0,65.0,50.0,Sports,0.5 to 1,Anytime,56500,Degree: Happy,0.75,0.5 to 1,1 to 1.5,Stress: Bad,Finances: Bad,Yes
-Yes,Male,BCA,65.0,60.0,65.0,Video Games,0.5 to 1,Anytime,56500,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Good,No
-No,Male,Commerce,76.0,83.0,70.0,Cinema,0.5 to 1,Morning,56500,Degree: Happy,0.5,2+,0.5 to 1,Stress: Good,Finances: Bad,No
-No,Female,BCA,85.0,80.0,80.0,Sports,2 to 3,Anytime,56500,Degree: Happy,1.0,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-No,Female,BCA,94.0,94.0,80.0,Reading books,0.5 to 1,Night,56700,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Good,Finances: Bad,No
-No,Male,BCA,88.2,67.5,60.0,Video Games,0 to 0.5,Morning,56800,Degree: Happy,0.75,1.5 to 2,1 to 1.5,Stress: Bad,Finances: Bad,No
-Yes,Male,BCA,80.0,70.0,70.0,Cinema,3 to 4,Night,56800,Degree: Unhappy,1.0,2+,3+,Stress: Bad,Finances: Good,Yes
-No,Female,BCA,75.0,50.0,78.0,Sports,0 to 0.5,Night,56800,Degree: Happy,0.5,1 to 1.5,0 to 0.5,Stress: Bad,Finances: Bad,No
-Yes,Female,Commerce,97.0,80.0,100.0,Reading books,3 to 4,Morning,56800,Degree: Happy,1.0,0.5 to 1,0 to 0.5,Stress: Good,Finances: Good,Yes
-No,Male,B.com Accounting & Finance,60.0,82.0,65.0,Video Games,0 to 0.5,Anytime,57000,Degree: Happy,0.75,0.5 to 1,1.5 to 2,Stress: Awful,Finances: Good,No
-Yes,Male,Commerce,75.0,70.0,70.0,Video Games,0.5 to 1,Morning,57000,Degree: Happy,0.75,0.5 to 1,2.5 to 3,Stress: Good,Finances: Good,Yes
-No,Male,BCA,90.0,74.0,74.0,Cinema,0.5 to 1,Anytime,57000,Degree: Happy,0.75,0.5 to 1,0 to 0.5,Stress: Bad,Finances: Bad,No
-Yes,Male,B.com Accounting & Finance,90.0,80.0,95.0,Sports,3 to 4,Anytime,57000,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Bad,Finances: Bad,Yes
-Yes,Male,BCA,54.0,48.0,60.0,Video Games,0.5 to 1,Anytime,57100,Degree: Happy,0.75,1 to 1.5,3+,Stress: Good,Finances: Bad,No
-Yes,Male,BCA,60.0,68.1,70.0,Sports,0.5 to 1,Morning,57100,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Good,Finances: Bad,Yes
-Yes,Male,B.com ISM,72.0,70.0,76.0,Cinema,2 to 3,Anytime,57100,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,BCA,40.0,65.0,30.0,Video Games,0.5 to 1,Morning,57200,Degree: Happy,0.25,1.5 to 2,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,93.8,83.5,100.0,Reading books,1 to 2,Morning,57200,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Good,Finances: Good,Yes
-No,Male,BCA,65.0,70.0,50.0,Cinema,1 to 2,Morning,57300,Degree: Happy,0.5,0 to 0.5,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Female,Commerce,80.0,60.0,60.0,Sports,1 to 2,Morning,57300,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-No,Male,BCA,61.6,61.67,75.0,Sports,1 to 2,Morning,57300,Degree: Happy,0.5,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,93.0,86.0,85.0,Cinema,0.5 to 1,Morning,57300,Degree: Happy,0.5,2+,0.5 to 1,Stress: Good,Finances: Bad,No
-Yes,Male,B.com ISM,54.0,65.0,58.0,Cinema,0 to 0.5,Anytime,57400,Degree: Happy,1.0,2+,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,70.0,50.0,60.0,Cinema,1 to 2,Night,57400,Degree: Happy,0.5,1 to 1.5,0.5 to 1,Stress: Bad,Finances: Bad,No
-Yes,Female,Commerce,70.0,71.0,91.0,Sports,1 to 2,Anytime,57400,Degree: Happy,0.75,0.5 to 1,0 to 0.5,Stress: Good,Finances: Fabulous,No
-Yes,Male,BCA,80.0,62.0,75.0,Sports,0.5 to 1,Night,57500,Degree: Happy,0.75,0.5 to 1,2.5 to 3,Stress: Fabulous,Finances: Awful,No
-Yes,Female,BCA,90.2,61.6,85.0,Video Games,1 to 2,Anytime,57500,Degree: Happy,0.75,2+,0 to 0.5,Stress: Bad,Finances: Good,No
-Yes,Female,Commerce,98.0,80.0,85.0,Reading books,1 to 2,Anytime,57500,Degree: Happy,1.0,1.5 to 2,3+,Stress: Good,Finances: Bad,No
-Yes,Male,BCA,70.0,63.0,71.0,Reading books,1 to 2,Morning,57600,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,88.0,70.0,70.0,Reading books,0.5 to 1,Anytime,57600,Degree: Unhappy,0.5,0.5 to 1,2.5 to 3,Stress: Awful,Finances: Awful,No
-Yes,Male,BCA,90.0,75.0,70.0,Sports,2 to 3,Night,57700,Degree: Happy,0.5,1.5 to 2,2 to 2.5,Stress: Bad,Finances: Good,No
-No,Male,BCA,79.0,65.0,80.0,Video Games,0 to 0.5,Morning,57700,Degree: Unhappy,0.5,1.5 to 2,0.5 to 1,Stress: Bad,Finances: Bad,No
-Yes,Female,Commerce,82.0,70.0,80.0,Reading books,2 to 3,Morning,57700,Degree: Happy,1.0,0 to 0.5,0 to 0.5,Stress: Fabulous,Finances: Bad,Yes
-Yes,Male,Commerce,82.0,78.0,80.0,Reading books,1 to 2,Anytime,57700,Degree: Happy,1.0,0 to 0.5,1.5 to 2,Stress: Good,Finances: Bad,Yes
-Yes,Male,B.com ISM,75.0,75.0,65.0,Sports,1 to 2,Anytime,57800,Degree: Happy,1.0,1.5 to 2,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,70.0,78.0,75.0,Cinema,0 to 0.5,Anytime,57800,Degree: Happy,0.75,2+,0 to 0.5,Stress: Bad,Finances: Good,No
-Yes,Male,B.com ISM,79.0,62.0,60.0,Cinema,1 to 2,Morning,57900,Degree: Happy,0.75,0 to 0.5,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Female,BCA,93.0,66.0,85.0,Reading books,1 to 2,Anytime,57900,Degree: Happy,1.0,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,B.com ISM,60.0,52.0,60.0,Video Games,1 to 2,Night,58000,Degree: Happy,0.5,0.5 to 1,1 to 1.5,Stress: Bad,Finances: Bad,No
-Yes,Male,BCA,83.0,76.0,75.0,Sports,1 to 2,Anytime,58000,Degree: Happy,0.75,1.5 to 2,0.5 to 1,Stress: Good,Finances: Good,Yes
-No,Male,BCA,86.0,72.0,80.0,Reading books,4+,Morning,58000,Degree: Unhappy,0.75,0.5 to 1,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Male,B.com ISM,50.0,50.0,50.0,Cinema,0.5 to 1,Night,58100,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Bad,Finances: Good,Yes
-Yes,Male,Commerce,60.0,60.0,60.0,Sports,2 to 3,Night,58100,Degree: Happy,0.5,2+,1 to 1.5,Stress: Good,Finances: Good,Yes
-Yes,Male,BCA,90.0,57.0,68.0,Reading books,1 to 2,Anytime,58100,Degree: Happy,1.0,0 to 0.5,0.5 to 1,Stress: Good,Finances: Bad,No
-Yes,Male,BCA,89.0,69.0,80.0,Sports,0.5 to 1,Anytime,58200,Degree: Unhappy,0.25,2+,0.5 to 1,Stress: Bad,Finances: Awful,Yes
-Yes,Male,BCA,79.4,61.33,80.87,Sports,1 to 2,Anytime,58200,Degree: Happy,0.75,1.5 to 2,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Female,BCA,60.0,70.0,88.0,Cinema,0.5 to 1,Anytime,58200,Degree: Happy,1.0,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,90.0,90.0,80.0,Cinema,1 to 2,Anytime,58400,Degree: Happy,0.5,0 to 0.5,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Female,Commerce,93.6,85.0,93.0,Sports,1 to 2,Anytime,58400,Degree: Happy,1.0,0 to 0.5,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,B.com ISM,76.0,47.0,30.0,Cinema,0 to 0.5,Morning,58500,Degree: Happy,0.5,0 to 0.5,0 to 0.5,Stress: Awful,Finances: Awful,No
-Yes,Female,BCA,70.0,59.0,58.0,Reading books,1 to 2,Anytime,58500,Degree: Unhappy,0.5,1.5 to 2,0 to 0.5,Stress: Bad,Finances: Good,No
-No,Male,B.com ISM,65.0,70.0,65.0,Video Games,0.5 to 1,Night,58500,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,70.0,60.0,70.0,Video Games,0 to 0.5,Anytime,58500,Degree: Happy,0.5,2+,0.5 to 1,Stress: Bad,Finances: Good,No
-Yes,Female,BCA,80.0,73.0,80.0,Cinema,0 to 0.5,Anytime,58500,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Good,Finances: Bad,Yes
-Yes,Male,BCA,91.0,73.3,85.0,Sports,0.5 to 1,Morning,58500,Degree: Happy,1.0,0.5 to 1,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,92.0,75.0,90.0,Cinema,3 to 4,Anytime,58500,Degree: Happy,1.0,2+,0 to 0.5,Stress: Bad,Finances: Good,No
-No,Male,B.com ISM,60.0,50.0,55.0,Sports,1 to 2,Anytime,58600,Degree: Happy,0.75,0 to 0.5,1.5 to 2,Stress: Bad,Finances: Bad,No
-No,Female,BCA,70.0,80.0,70.0,Cinema,0.5 to 1,Morning,58600,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Bad,Finances: Bad,No
-No,Female,Commerce,78.0,75.0,90.0,Sports,2 to 3,Anytime,58600,Degree: Happy,1.0,0.5 to 1,0 to 0.5,Stress: Good,Finances: Good,No
-No,Female,BCA,78.0,60.0,60.0,Cinema,1 to 2,Anytime,58800,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Bad,Finances: Good,No
-Yes,Male,BCA,90.2,72.8,85.0,Video Games,1 to 2,Morning,58800,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Female,Commerce,75.0,85.0,90.0,Cinema,2 to 3,Anytime,58800,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,B.com ISM,70.0,67.0,65.0,Video Games,1 to 2,Anytime,58900,Degree: Happy,1.0,0 to 0.5,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Female,B.com Accounting & Finance,80.0,88.0,80.0,Sports,2 to 3,Anytime,58900,Degree: Happy,1.0,0.5 to 1,2 to 2.5,Stress: Good,Finances: Good,No
-Yes,Female,BCA,90.0,75.0,70.0,Cinema,0.5 to 1,Night,59000,Degree: Happy,0.5,0.5 to 1,0 to 0.5,Stress: Bad,Finances: Good,No
-Yes,Male,BCA,89.8,63.3,73.3,Sports,0 to 0.5,Anytime,59100,Degree: Happy,0.5,0.5 to 1,1 to 1.5,Stress: Bad,Finances: Good,No
-No,Male,BCA,82.0,55.0,75.0,Cinema,0.5 to 1,Anytime,59100,Degree: Happy,0.5,0.5 to 1,0.5 to 1,Stress: Good,Finances: Bad,No
-Yes,Male,BCA,75.0,55.0,60.0,Sports,0.5 to 1,Morning,59200,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Good,Finances: Good,No
-No,Female,B.com ISM,60.0,70.0,65.0,Sports,0 to 0.5,Night,59200,Degree: Happy,0.25,0.5 to 1,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Female,Commerce,96.0,92.0,80.0,Cinema,3 to 4,Morning,59300,Degree: Happy,0.75,1.5 to 2,0 to 0.5,Stress: Good,Finances: Good,No
-No,Male,Commerce,90.0,73.0,80.0,Cinema,0.5 to 1,Morning,59300,Degree: Happy,1.0,0.5 to 1,3+,Stress: Bad,Finances: Bad,No
-Yes,Male,Commerce,75.0,75.0,80.0,Sports,0.5 to 1,Anytime,59300,Degree: Happy,0.75,1 to 1.5,1.5 to 2,Stress: Good,Finances: Good,No
-Yes,Male,Commerce,60.0,79.0,50.0,Cinema,0.5 to 1,Morning,59400,Degree: Happy,0.0,2+,1.5 to 2,Stress: Good,Finances: Bad,No
-No,Male,Commerce,70.0,70.0,70.0,Cinema,3 to 4,Anytime,59400,Degree: Happy,1.0,0 to 0.5,0 to 0.5,Stress: Good,Finances: Good,Yes
-No,Female,BCA,85.0,63.0,74.0,Sports,0.5 to 1,Night,59400,Degree: Happy,0.75,2+,0.5 to 1,Stress: Bad,Finances: Bad,No
-Yes,Female,Commerce,85.0,74.0,75.0,Cinema,0 to 0.5,Anytime,59400,Degree: Happy,0.75,2+,2.5 to 3,Stress: Awful,Finances: Good,No
-Yes,Male,BCA,85.0,64.0,80.0,Cinema,0 to 0.5,Morning,59400,Degree: Unhappy,0.75,0 to 0.5,0.5 to 1,Stress: Bad,Finances: Bad,No
-No,Male,BCA,61.8,68.3,66.3,Sports,2 to 3,Morning,59500,Degree: Happy,0.5,0.5 to 1,1.5 to 2,Stress: Good,Finances: Good,No
-No,Male,Commerce,85.0,75.0,70.0,Sports,4+,Anytime,59500,Degree: Happy,0.75,1 to 1.5,2 to 2.5,Stress: Good,Finances: Bad,Yes
-Yes,Female,Commerce,80.0,89.0,95.0,Reading books,2 to 3,Morning,59500,Degree: Happy,1.0,0 to 0.5,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Female,B.com Accounting & Finance,72.0,75.0,80.0,Reading books,2 to 3,Night,59600,Degree: Happy,0.75,0.5 to 1,0 to 0.5,Stress: Good,Finances: Good,Yes
-Yes,Male,Commerce,91.0,83.5,80.0,Video Games,1 to 2,Night,59600,Degree: Happy,0.5,0.5 to 1,2 to 2.5,Stress: Bad,Finances: Good,No
-Yes,Female,BCA,72.6,62.6,85.0,Cinema,0 to 0.5,Night,59600,Degree: Happy,1.0,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,90.0,70.0,50.0,Reading books,0.5 to 1,Morning,59700,Degree: Unhappy,0.25,0 to 0.5,3+,Stress: Good,Finances: Bad,Yes
-Yes,Male,BCA,69.0,60.0,50.0,Sports,0 to 0.5,Anytime,59700,Degree: Happy,0.75,0 to 0.5,1.5 to 2,Stress: Good,Finances: Awful,No
-Yes,Female,Commerce,80.0,75.0,70.0,Cinema,1 to 2,Morning,59700,Degree: Happy,0.5,1 to 1.5,0 to 0.5,Stress: Good,Finances: Bad,No
-No,Female,BCA,7.4,79.0,75.0,Sports,1 to 2,Night,59700,Degree: Happy,0.75,1.5 to 2,0.5 to 1,Stress: Good,Finances: Bad,No
-Yes,Male,BCA,69.0,54.0,50.0,Cinema,0.5 to 1,Anytime,59800,Degree: Happy,0.5,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Good,No
-No,Male,Commerce,84.0,85.0,80.0,Cinema,0.5 to 1,Anytime,59800,Degree: Happy,1.0,0.5 to 1,3+,Stress: Good,Finances: Bad,No
-Yes,Female,BCA,94.0,69.0,85.0,Cinema,0.5 to 1,Anytime,59800,Degree: Happy,0.5,0.5 to 1,2 to 2.5,Stress: Bad,Finances: Good,No
-No,Male,BCA,73.0,85.0,55.0,Sports,0 to 0.5,Morning,59900,Degree: Happy,1.0,1 to 1.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Female,BCA,90.0,75.0,70.0,Cinema,0.5 to 1,Night,59900,Degree: Happy,0.5,0.5 to 1,2.5 to 3,Stress: Bad,Finances: Good,No
-Yes,Male,BCA,85.0,72.0,70.0,Sports,1 to 2,Anytime,60000,Degree: Unhappy,0.5,1.5 to 2,1 to 1.5,Stress: Good,Finances: Bad,Yes
-Yes,Male,Commerce,84.0,76.0,70.0,Video Games,0.5 to 1,Anytime,60000,Degree: Happy,0.75,2+,1 to 1.5,Stress: Bad,Finances: Bad,Yes
-Yes,Female,Commerce,83.0,73.0,75.0,Cinema,0 to 0.5,Morning,60000,Degree: Happy,0.75,0.5 to 1,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,B.com Accounting & Finance,62.0,53.0,80.0,Sports,1 to 2,Morning,60000,Degree: Happy,0.75,0.5 to 1,2 to 2.5,Stress: Awful,Finances: Awful,Yes
-Yes,Male,BCA,80.0,60.0,70.0,Video Games,0 to 0.5,Anytime,60100,Degree: Happy,0.5,0 to 0.5,0 to 0.5,Stress: Good,Finances: Bad,No
-Yes,Male,Commerce,90.0,80.0,85.0,Cinema,3 to 4,Anytime,60100,Degree: Happy,0.75,1.5 to 2,3+,Stress: Good,Finances: Good,No
-No,Male,BCA,60.0,60.0,50.0,Cinema,0.5 to 1,Morning,60200,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Good,Finances: Bad,No
-No,Male,B.com ISM,75.0,79.0,70.0,Reading books,1 to 2,Morning,60200,Degree: Happy,0.5,0 to 0.5,0 to 0.5,Stress: Good,Finances: Awful,No
-Yes,Female,BCA,80.0,75.0,75.0,Reading books,2 to 3,Morning,60200,Degree: Happy,0.75,0 to 0.5,1 to 1.5,Stress: Good,Finances: Good,No
-No,Male,Commerce,75.0,65.0,75.0,Cinema,1 to 2,Morning,60200,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,92.0,69.0,85.0,Cinema,1 to 2,Night,60200,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-No,Female,BCA,87.0,75.0,89.0,Cinema,0 to 0.5,Anytime,60200,Degree: Unhappy,0.25,0 to 0.5,1 to 1.5,Stress: Good,Finances: Bad,No
-No,Male,BCA,60.0,65.0,70.0,Video Games,0 to 0.5,Anytime,60300,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Female,BCA,95.0,85.0,86.0,Reading books,1 to 2,Night,60300,Degree: Happy,0.5,1.5 to 2,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,88.0,58.0,50.0,Sports,0.5 to 1,Night,60400,Degree: Happy,0.75,1 to 1.5,2 to 2.5,Stress: Bad,Finances: Fabulous,No
-Yes,Female,B.com ISM,60.0,60.0,60.0,Cinema,0.5 to 1,Morning,60400,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Bad,Finances: Bad,No
-No,Male,B.com Accounting & Finance,75.0,75.0,75.0,Sports,0.5 to 1,Anytime,60500,Degree: Happy,0.75,2+,1.5 to 2,Stress: Good,Finances: Good,No
-Yes,Female,BCA,85.0,55.0,75.0,Video Games,2 to 3,Anytime,60500,Degree: Happy,0.75,0.5 to 1,1 to 1.5,Stress: Good,Finances: Good,Yes
-Yes,Female,BCA,75.0,64.0,74.0,Cinema,0 to 0.5,Anytime,60600,Degree: Unhappy,0.25,2+,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,87.0,78.0,84.0,Cinema,0.5 to 1,Morning,60600,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,B.com ISM,86.0,86.0,89.0,Video Games,0.5 to 1,Anytime,60600,Degree: Happy,0.5,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-No,Male,B.com ISM,60.0,77.0,50.0,Video Games,0.5 to 1,Night,60700,Degree: Happy,0.5,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Bad,Yes
-Yes,Male,BCA,81.4,69.0,75.0,Cinema,0.5 to 1,Anytime,60700,Degree: Unhappy,1.0,1.5 to 2,0 to 0.5,Stress: Good,Finances: Awful,Yes
-No,Female,Commerce,72.0,80.0,79.0,Cinema,0 to 0.5,Anytime,60700,Degree: Happy,0.5,2+,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,Commerce,55.0,50.0,60.0,Sports,0 to 0.5,Morning,60800,Degree: Happy,0.5,0 to 0.5,1 to 1.5,Stress: Good,Finances: Bad,No
-No,Female,BCA,84.0,64.0,75.0,Sports,2 to 3,Anytime,60900,Degree: Happy,0.5,1 to 1.5,0.5 to 1,Stress: Bad,Finances: Good,No
-Yes,Male,Commerce,85.0,91.0,88.0,Video Games,0.5 to 1,Morning,60900,Degree: Happy,0.25,0.5 to 1,2 to 2.5,Stress: Bad,Finances: Bad,No
-Yes,Female,B.com Accounting & Finance,85.0,88.0,89.0,Sports,1 to 2,Anytime,60900,Degree: Happy,1.0,0 to 0.5,1 to 1.5,Stress: Bad,Finances: Bad,No
-No,Male,Commerce,90.0,80.0,80.0,Sports,1 to 2,Morning,61000,Degree: Unhappy,0.25,1 to 1.5,0.5 to 1,Stress: Awful,Finances: Bad,No
-No,Male,BCA,75.0,70.0,60.0,Video Games,1 to 2,Morning,61200,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Good,Finances: Bad,No
-No,Female,Commerce,76.0,63.0,70.0,Sports,0.5 to 1,Night,61200,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Good,Finances: Good,Yes
-Yes,Male,Commerce,82.0,73.0,80.0,Cinema,0 to 0.5,Anytime,61200,Degree: Happy,0.5,1.5 to 2,0 to 0.5,Stress: Fabulous,Finances: Bad,No
-Yes,Male,Commerce,70.0,70.0,90.0,Cinema,4+,Anytime,61200,Degree: Happy,1.0,2+,0.5 to 1,Stress: Awful,Finances: Bad,Yes
-No,Female,BCA,89.0,77.0,65.0,Sports,0.5 to 1,Night,61300,Degree: Happy,1.0,0 to 0.5,1 to 1.5,Stress: Awful,Finances: Bad,Yes
-Yes,Female,Commerce,80.0,60.0,70.0,Sports,1 to 2,Night,61300,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Bad,Finances: Good,No
-No,Male,BCA,70.0,60.0,60.0,Sports,0 to 0.5,Morning,61400,Degree: Happy,0.5,1 to 1.5,1.5 to 2,Stress: Bad,Finances: Bad,No
-Yes,Male,B.com ISM,72.0,67.0,65.0,Video Games,0.5 to 1,Morning,61400,Degree: Happy,0.5,2+,0.5 to 1,Stress: Bad,Finances: Bad,No
-Yes,Male,BCA,84.0,63.0,70.0,Sports,0 to 0.5,Morning,61400,Degree: Happy,0.5,2+,3+,Stress: Good,Finances: Bad,No
-No,Male,Commerce,83.7,76.77,80.0,Sports,0.5 to 1,Night,61400,Degree: Happy,0.75,1 to 1.5,1 to 1.5,Stress: Good,Finances: Bad,No
-No,Female,Commerce,76.0,76.0,92.8,Sports,3 to 4,Anytime,61400,Degree: Happy,1.0,1 to 1.5,0.5 to 1,Stress: Good,Finances: Bad,No
-Yes,Female,BCA,75.0,70.0,70.0,Cinema,4+,Anytime,61500,Degree: Happy,0.75,2+,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,BCA,85.0,61.0,75.0,Reading books,2 to 3,Anytime,61500,Degree: Happy,0.5,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,85.0,60.0,60.0,Video Games,2 to 3,Anytime,61600,Degree: Happy,0.5,0 to 0.5,0.5 to 1,Stress: Fabulous,Finances: Good,No
-No,Male,BCA,88.0,88.0,80.0,Reading books,1 to 2,Anytime,61600,Degree: Unhappy,0.5,0.5 to 1,1.5 to 2,Stress: Bad,Finances: Awful,Yes
-Yes,Female,BCA,86.0,68.0,80.0,Video Games,2 to 3,Anytime,61600,Degree: Happy,0.75,0.5 to 1,0 to 0.5,Stress: Good,Finances: Bad,No
-Yes,Female,BCA,64.0,49.5,85.0,Reading books,2 to 3,Night,61700,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Bad,No
-Yes,Male,Commerce,89.0,79.0,70.0,Sports,0.5 to 1,Morning,61800,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Bad,No
-Yes,Male,BCA,91.4,65.5,82.96,Cinema,0 to 0.5,Morning,61800,Degree: Happy,0.75,2+,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,BCA,77.0,70.0,60.0,Video Games,2 to 3,Anytime,61900,Degree: Happy,0.75,0.5 to 1,2 to 2.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,80.0,70.0,75.0,Sports,0 to 0.5,Morning,61900,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Awful,Finances: Bad,No
-Yes,Female,BCA,85.0,90.0,85.0,Cinema,0.5 to 1,Anytime,61900,Degree: Happy,1.0,1 to 1.5,0.5 to 1,Stress: Good,Finances: Awful,No
-No,Female,B.com ISM,45.0,45.0,50.0,Sports,3 to 4,Night,62000,Degree: Unhappy,0.75,0.5 to 1,0.5 to 1,Stress: Fabulous,Finances: Good,No
-Yes,Male,B.com ISM,50.0,50.0,50.0,Reading books,1 to 2,Anytime,62000,Degree: Happy,0.75,2+,1 to 1.5,Stress: Bad,Finances: Good,Yes
-No,Male,BCA,80.0,69.0,60.0,Sports,0.5 to 1,Morning,62100,Degree: Happy,0.5,0.5 to 1,1 to 1.5,Stress: Awful,Finances: Good,No
-No,Male,BCA,75.0,60.0,80.0,Cinema,0 to 0.5,Anytime,62200,Degree: Happy,0.5,1.5 to 2,2 to 2.5,Stress: Awful,Finances: Good,No
-Yes,Male,Commerce,65.0,75.0,97.0,Cinema,0 to 0.5,Anytime,62200,Degree: Happy,0.5,1 to 1.5,0 to 0.5,Stress: Fabulous,Finances: Good,Yes
-No,Male,B.com Accounting & Finance,73.0,72.0,68.0,Reading books,1 to 2,Night,62300,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,69.5,61.0,55.0,Cinema,1 to 2,Anytime,62300,Degree: Happy,0.5,2+,0.5 to 1,Stress: Awful,Finances: Bad,No
-Yes,Male,B.com ISM,56.0,57.0,67.0,Sports,0.5 to 1,Night,62300,Degree: Happy,0.75,0.5 to 1,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,85.0,74.0,75.0,Cinema,0 to 0.5,Anytime,62300,Degree: Happy,0.75,2+,0 to 0.5,Stress: Awful,Finances: Good,No
-No,Female,B.com Accounting & Finance,80.2,70.0,69.0,Reading books,4+,Morning,62400,Degree: Unhappy,0.5,0.5 to 1,1 to 1.5,Stress: Good,Finances: Bad,No
-No,Male,BCA,50.0,50.0,65.0,Cinema,0 to 0.5,Night,62400,Degree: Happy,0.25,0 to 0.5,0 to 0.5,Stress: Fabulous,Finances: Fabulous,Yes
-Yes,Male,BCA,80.0,60.0,65.0,Sports,1 to 2,Night,62400,Degree: Happy,0.5,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Good,No
-No,Female,B.com ISM,60.0,60.0,60.0,Cinema,0.5 to 1,Morning,62500,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Bad,Finances: Good,No
-No,Male,BCA,90.0,65.0,65.0,Sports,0 to 0.5,Anytime,62500,Degree: Happy,0.75,0 to 0.5,1 to 1.5,Stress: Good,Finances: Bad,No
-Yes,Male,BCA,75.0,65.0,65.0,Sports,0.5 to 1,Morning,62500,Degree: Happy,0.5,0.5 to 1,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,80.0,60.0,68.0,Video Games,0.5 to 1,Night,62600,Degree: Happy,1.0,1.5 to 2,0.5 to 1,Stress: Bad,Finances: Good,No
-Yes,Female,B.com Accounting & Finance,71.2,79.5,70.0,Cinema,0.5 to 1,Anytime,62600,Degree: Happy,0.5,0.5 to 1,1 to 1.5,Stress: Good,Finances: Bad,No
-No,Male,B.com Accounting & Finance,70.0,80.0,75.0,Reading books,4+,Anytime,62700,Degree: Happy,1.0,1.5 to 2,0.5 to 1,Stress: Bad,Finances: Good,No
-Yes,Female,Commerce,91.0,70.0,80.0,Cinema,1 to 2,Anytime,62700,Degree: Happy,0.5,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Awful,No
-Yes,Female,BCA,80.0,60.0,60.0,Sports,0.5 to 1,Anytime,62800,Degree: Happy,0.75,2+,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Male,B.com ISM,80.0,70.0,70.0,Cinema,1 to 2,Anytime,62800,Degree: Happy,0.75,2+,0.5 to 1,Stress: Bad,Finances: Bad,Yes
-Yes,Male,BCA,91.0,60.0,60.0,Sports,0.5 to 1,Anytime,62900,Degree: Happy,0.25,1.5 to 2,0 to 0.5,Stress: Bad,Finances: Bad,Yes
-No,Male,BCA,75.0,73.8,65.0,Video Games,1 to 2,Morning,62900,Degree: Happy,0.5,1 to 1.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,71.0,66.0,80.0,Video Games,0.5 to 1,Morning,62900,Degree: Happy,0.75,1 to 1.5,2 to 2.5,Stress: Good,Finances: Good,No
-No,Female,BCA,60.0,55.0,65.0,Cinema,2 to 3,Night,63000,Degree: Happy,0.75,1 to 1.5,2 to 2.5,Stress: Bad,Finances: Bad,No
-Yes,Male,Commerce,81.0,64.0,85.0,Sports,1 to 2,Anytime,63000,Degree: Happy,0.5,1.5 to 2,0.5 to 1,Stress: Good,Finances: Good,No
-No,Male,BCA,50.0,55.0,50.0,Cinema,0 to 0.5,Anytime,63100,Degree: Happy,0.75,0.5 to 1,1.5 to 2,Stress: Good,Finances: Awful,No
-No,Female,B.com ISM,45.0,45.0,50.0,Sports,3 to 4,Night,63200,Degree: Unhappy,0.75,0.5 to 1,2.5 to 3,Stress: Fabulous,Finances: Good,No
-No,Female,BCA,54.0,51.0,66.0,Sports,0.5 to 1,Morning,63200,Degree: Happy,0.5,0 to 0.5,1 to 1.5,Stress: Bad,Finances: Good,No
-No,Male,BCA,80.5,53.0,80.0,Sports,2 to 3,Morning,63200,Degree: Happy,0.75,1 to 1.5,1.5 to 2,Stress: Good,Finances: Awful,No
-No,Male,Commerce,87.0,84.0,92.0,Sports,0.5 to 1,Morning,63200,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Fabulous,Finances: Bad,No
-No,Female,B.com ISM,60.0,70.0,70.0,Sports,1 to 2,Anytime,63400,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Good,Finances: Bad,No
-No,Female,BCA,70.0,55.0,70.0,Reading books,1 to 2,Night,63400,Degree: Happy,0.75,1.5 to 2,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,BCA,80.0,60.0,80.0,Sports,2 to 3,Night,63400,Degree: Happy,0.75,0.5 to 1,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Male,Commerce,70.0,60.0,60.0,Sports,2 to 3,Morning,63500,Degree: Happy,0.5,0 to 0.5,0.5 to 1,Stress: Good,Finances: Bad,Yes
-No,Male,BCA,86.5,65.3,79.5,Sports,0 to 0.5,Morning,63500,Degree: Happy,0.75,2+,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,84.0,65.0,85.0,Cinema,1 to 2,Night,63500,Degree: Happy,0.75,0.5 to 1,2 to 2.5,Stress: Good,Finances: Good,No
-No,Male,B.com ISM,46.0,48.0,60.0,Sports,1 to 2,Anytime,63600,Degree: Happy,0.5,0 to 0.5,1 to 1.5,Stress: Bad,Finances: Bad,No
-Yes,Female,BCA,79.0,61.0,70.0,Cinema,1 to 2,Night,63600,Degree: Happy,0.5,1.5 to 2,0 to 0.5,Stress: Awful,Finances: Awful,No
-Yes,Male,Commerce,70.0,75.0,70.0,Sports,0 to 0.5,Anytime,63600,Degree: Happy,0.75,1 to 1.5,0.5 to 1,Stress: Good,Finances: Good,Yes
-Yes,Male,BCA,78.0,67.0,80.0,Cinema,3 to 4,Anytime,63600,Degree: Happy,1.0,0 to 0.5,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Female,BCA,88.8,71.0,85.0,Cinema,3 to 4,Morning,63600,Degree: Happy,1.0,1 to 1.5,1 to 1.5,Stress: Good,Finances: Good,No
-Yes,Male,BCA,95.0,90.0,90.0,Cinema,1 to 2,Morning,63600,Degree: Happy,0.75,2+,1.5 to 2,Stress: Good,Finances: Good,Yes
-No,Male,BCA,60.0,65.0,60.0,Cinema,0 to 0.5,Anytime,63700,Degree: Happy,1.0,0 to 0.5,1 to 1.5,Stress: Bad,Finances: Bad,No
-Yes,Male,BCA,78.0,58.0,69.0,Sports,0 to 0.5,Morning,63900,Degree: Unhappy,0.0,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Female,BCA,59.0,54.0,80.0,Reading books,0.5 to 1,Morning,63900,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Bad,Finances: Good,No
-Yes,Male,Commerce,85.0,80.0,80.0,Cinema,0.5 to 1,Anytime,63900,Degree: Happy,1.0,0 to 0.5,0.5 to 1,Stress: Awful,Finances: Bad,No
-No,Male,Commerce,81.0,80.0,70.0,Cinema,0.5 to 1,Night,64100,Degree: Happy,0.5,2+,0 to 0.5,Stress: Good,Finances: Fabulous,Yes
-Yes,Male,Commerce,85.0,80.0,60.0,Sports,0.5 to 1,Night,64200,Degree: Happy,0.75,1 to 1.5,0 to 0.5,Stress: Good,Finances: Bad,No
-Yes,Female,B.com Accounting & Finance,64.0,88.0,70.0,Sports,1 to 2,Morning,64200,Degree: Happy,0.25,1 to 1.5,0 to 0.5,Stress: Bad,Finances: Good,No
-Yes,Male,BCA,79.0,65.0,75.0,Video Games,0.5 to 1,Morning,64200,Degree: Happy,0.75,2+,0.5 to 1,Stress: Good,Finances: Bad,No
-Yes,Female,Commerce,86.0,78.0,85.0,Reading books,1 to 2,Anytime,64200,Degree: Happy,0.75,1.5 to 2,0.5 to 1,Stress: Bad,Finances: Good,No
-No,Male,BCA,78.0,60.0,75.0,Sports,0.5 to 1,Anytime,64300,Degree: Happy,1.0,0.5 to 1,2.5 to 3,Stress: Good,Finances: Bad,No
-No,Male,BCA,85.8,63.66,80.0,Sports,0 to 0.5,Anytime,64300,Degree: Happy,0.75,1.5 to 2,0 to 0.5,Stress: Good,Finances: Good,No
-Yes,Female,Commerce,93.0,85.0,90.0,Reading books,1 to 2,Night,64300,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,B.com ISM,70.0,60.0,50.0,Sports,0.5 to 1,Morning,64500,Degree: Happy,0.75,0 to 0.5,3+,Stress: Bad,Finances: Bad,No
-No,Male,BCA,60.0,50.0,50.0,Sports,0.5 to 1,Morning,64500,Degree: Happy,0.75,0.5 to 1,0.5 to 1,Stress: Bad,Finances: Good,Yes
-No,Male,BCA,60.0,65.0,65.0,Sports,0 to 0.5,Morning,64500,Degree: Happy,0.75,0.5 to 1,1.5 to 2,Stress: Good,Finances: Good,No
-Yes,Male,BCA,89.5,69.7,70.0,Cinema,0.5 to 1,Anytime,64500,Degree: Happy,0.75,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-Yes,Male,B.com Accounting & Finance,90.0,85.0,82.0,Cinema,1 to 2,Anytime,64500,Degree: Happy,0.5,0 to 0.5,0.5 to 1,Stress: Good,Finances: Good,No
-No,Female,BCA,90.0,90.0,90.0,Cinema,0 to 0.5,Night,64500,Degree: Happy,1.0,1 to 1.5,0 to 0.5,Stress: Awful,Finances: Good,No
-Yes,Male,BCA,62.0,61.3,53.0,Cinema,0 to 0.5,Night,130000,Degree: Happy,1.0,1 to 1.5,1 to 1.5,Stress: Bad,Finances: Bad,No
+No,Male,BCA,76.0,70.0,67.0,Sports,1 to 2,Morning,55100,No,Neutral,1 to 1.5,0.5 to 1,Good,Good,No
+Yes,Male,BCA,75.0,57.0,55.0,Sports,0 to 0.5,Morning,55100,Yes,Neutral,1.5 to 2,0 to 0.5,Good,Good,No
+Yes,Male,B.com ISM,67.0,70.0,60.0,Sports,4+,Anytime,55100,Yes,Eager,,0 to 0.5,Good,Good,No
+Yes,Male,BCA,89.0,69.0,80.0,Video Games,3 to 4,Morning,55100,Yes,Willing,1 to 1.5,3+,Good,Good,Yes
+No,Male,BCA,80.0,70.0,60.0,Video Games,0 to 0.5,Anytime,55200,Yes,Reluctant,,0 to 0.5,Good,Good,No
+Yes,Male,B.com ISM,67.0,54.0,86.0,Cinema,0.5 to 1,Morning,55300,Yes,Eager,,0.5 to 1,Good,Good,No
+Yes,Male,B.com ISM,55.0,57.0,60.0,Sports,0.5 to 1,Anytime,55400,Yes,Reluctant,,0 to 0.5,Awful,Bad,No
+Yes,Male,BCA,50.0,50.0,60.0,Reading Books,0.5 to 1,Night,55400,Yes,Willing,,1 to 1.5,Bad,Good,No
+Yes,Male,BCA,84.0,55.0,70.0,Video Games,0.5 to 1,Anytime,55400,Yes,Willing,0.5 to 1,0.5 to 1,Bad,Good,No
+Yes,Male,BCA,85.0,60.0,60.0,Sports,0.5 to 1,Anytime,55500,Yes,Willing,1 to 1.5,2 to 2.5,Bad,Good,No
+Yes,Female,Commerce,90.4,80.0,80.0,Cinema,1 to 2,Anytime,55500,Yes,Willing,0.5 to 1,1 to 1.5,Good,Good,No
+Yes,Female,BCA,95.0,75.0,85.0,Reading Books,2 to 3,Anytime,55500,Yes,Neutral,1 to 1.5,1.5 to 2,Good,Good,No
+Yes,Male,BCA,86.0,68.0,70.0,Sports,0.5 to 1,Anytime,55600,Yes,Eager,1 to 1.5,1 to 1.5,Good,Bad,Yes
+Yes,Male,BCA,91.0,81.0,75.0,Reading Books,0.5 to 1,Anytime,55600,Yes,Willing,0.5 to 1,1.5 to 2,Good,Bad,No
+Yes,Male,B.com Accounting & Finance,75.0,90.0,85.0,Sports,4+,Anytime,55600,Yes,Eager,0.5 to 1,1.5 to 2,Fabulous,Bad,No
+No,Male,BCA,75.0,68.0,70.0,Sports,0 to 0.5,Anytime,56000,Yes,Willing,1 to 1.5,0 to 0.5,Good,Good,No
+No,Male,BCA,77.0,87.0,60.0,Video Games,0.5 to 1,Anytime,56100,No,Reluctant,0.5 to 1,1 to 1.5,Bad,Bad,No
+Yes,Male,BCA,90.0,62.0,79.0,Reading Books,0.5 to 1,Night,56100,Yes,Willing,0.5 to 1,0.5 to 1,Bad,Bad,No
+Yes,Female,Commerce,95.6,86.0,85.0,Cinema,1 to 2,Anytime,56100,Yes,Willing,0.5 to 1,0 to 0.5,Good,Good,No
+Yes,Male,Commerce,88.0,85.0,90.0,Sports,0.5 to 1,Morning,56100,Yes,Willing,,0.5 to 1,Good,Good,No
+Yes,Male,B.com Accounting & Finance,66.0,65.0,60.0,Reading Books,1 to 2,Morning,56200,Yes,Neutral,0.5 to 1,0.5 to 1,Fabulous,Good,No
+Yes,Male,BCA,69.0,60.0,68.0,Video Games,0 to 0.5,Night,56200,Yes,Eager,0.5 to 1,0.5 to 1,Good,Good,No
+Yes,Female,Commerce,88.0,81.0,80.0,Cinema,0.5 to 1,Morning,56200,Yes,Willing,,0.5 to 1,Good,Good,No
+No,Male,BCA,85.6,70.0,65.0,Cinema,1 to 2,Anytime,56300,Yes,Willing,1 to 1.5,0 to 0.5,Awful,Bad,No
+No,Male,BCA,85.0,50.0,70.0,Video Games,0.5 to 1,Anytime,56300,Yes,Willing,1.5 to 2,0 to 0.5,Bad,Bad,No
+Yes,Female,BCA,91.0,86.0,90.0,Cinema,0.5 to 1,Morning,56300,Yes,Willing,1 to 1.5,0 to 0.5,Good,Good,No
+Yes,Male,BCA,78.0,55.0,70.0,Reading Books,3 to 4,Anytime,56400,Yes,Eager,0.5 to 1,0.5 to 1,Awful,Good,Yes
+Yes,Male,BCA,90.0,64.0,80.0,Reading Books,0.5 to 1,Anytime,56400,Yes,Willing,,1 to 1.5,Bad,Bad,No
+Yes,Female,BCA,84.2,64.8,84.0,Sports,0.5 to 1,Anytime,56400,Yes,Willing,,1.5 to 2,Good,Good,No
+No,Male,Commerce,50.0,50.0,35.0,Sports,3 to 4,Morning,56500,Yes,Willing,2+,1 to 1.5,Good,Bad,No
+Yes,Male,BCA,65.0,65.0,50.0,Sports,0.5 to 1,Anytime,56500,Yes,Willing,0.5 to 1,1 to 1.5,Bad,Bad,Yes
+Yes,Male,BCA,65.0,60.0,65.0,Video Games,0.5 to 1,Anytime,56500,Yes,Willing,0.5 to 1,0.5 to 1,Bad,Good,No
+No,Male,Commerce,76.0,83.0,70.0,Cinema,0.5 to 1,Morning,56500,Yes,Neutral,2+,0.5 to 1,Good,Bad,No
+No,Female,BCA,85.0,80.0,80.0,Sports,2 to 3,Anytime,56500,Yes,Eager,1 to 1.5,1 to 1.5,Good,Good,No
+No,Female,BCA,94.0,94.0,80.0,Reading Books,0.5 to 1,Night,56700,Yes,Willing,1 to 1.5,0.5 to 1,Good,Bad,No
+No,Male,BCA,88.2,67.5,60.0,Video Games,0 to 0.5,Morning,56800,Yes,Willing,1.5 to 2,1 to 1.5,Bad,Bad,No
+Yes,Male,BCA,80.0,70.0,70.0,Cinema,3 to 4,Night,56800,No,Eager,2+,3+,Bad,Good,Yes
+No,Female,BCA,75.0,50.0,78.0,Sports,0 to 0.5,Night,56800,Yes,Neutral,1 to 1.5,0 to 0.5,Bad,Bad,No
+Yes,Female,Commerce,97.0,80.0,100.0,Reading Books,3 to 4,Morning,56800,Yes,Eager,0.5 to 1,0 to 0.5,Good,Good,Yes
+No,Male,B.com Accounting & Finance,60.0,82.0,65.0,Video Games,0 to 0.5,Anytime,57000,Yes,Willing,0.5 to 1,1.5 to 2,Awful,Good,No
+Yes,Male,Commerce,75.0,70.0,70.0,Video Games,0.5 to 1,Morning,57000,Yes,Willing,0.5 to 1,2.5 to 3,Good,Good,Yes
+No,Male,BCA,90.0,74.0,74.0,Cinema,0.5 to 1,Anytime,57000,Yes,Willing,0.5 to 1,0 to 0.5,Bad,Bad,No
+Yes,Male,B.com Accounting & Finance,90.0,80.0,95.0,Sports,3 to 4,Anytime,57000,Yes,Willing,1 to 1.5,0.5 to 1,Bad,Bad,Yes
+Yes,Male,BCA,54.0,48.0,60.0,Video Games,0.5 to 1,Anytime,57100,Yes,Willing,1 to 1.5,3+,Good,Bad,No
+Yes,Male,BCA,60.0,68.1,70.0,Sports,0.5 to 1,Morning,57100,Yes,Willing,1 to 1.5,0.5 to 1,Good,Bad,Yes
+Yes,Male,B.com ISM,72.0,70.0,76.0,Cinema,2 to 3,Anytime,57100,Yes,Willing,0.5 to 1,0.5 to 1,Good,Good,No
+No,Male,BCA,40.0,65.0,30.0,Video Games,0.5 to 1,Morning,57200,Yes,Reluctant,1.5 to 2,0.5 to 1,Good,Good,No
+Yes,Female,Commerce,93.8,83.5,100.0,Reading Books,1 to 2,Morning,57200,Yes,Willing,1 to 1.5,0.5 to 1,Good,Good,Yes
+No,Male,BCA,65.0,70.0,50.0,Cinema,1 to 2,Morning,57300,Yes,Neutral,,1 to 1.5,Good,Bad,No
+Yes,Female,Commerce,80.0,60.0,60.0,Sports,1 to 2,Morning,57300,Yes,Willing,1 to 1.5,1 to 1.5,Good,Good,No
+No,Male,BCA,61.6,61.67,75.0,Sports,1 to 2,Morning,57300,Yes,Neutral,1 to 1.5,1 to 1.5,Good,Good,No
+Yes,Female,Commerce,93.0,86.0,85.0,Cinema,0.5 to 1,Morning,57300,Yes,Neutral,2+,0.5 to 1,Good,Bad,No
+Yes,Male,B.com ISM,54.0,65.0,58.0,Cinema,0 to 0.5,Anytime,57400,Yes,Eager,2+,1 to 1.5,Good,Good,No
+Yes,Female,Commerce,70.0,50.0,60.0,Cinema,1 to 2,Night,57400,Yes,Neutral,1 to 1.5,0.5 to 1,Bad,Bad,No
+Yes,Female,Commerce,70.0,71.0,91.0,Sports,1 to 2,Anytime,57400,Yes,Willing,0.5 to 1,0 to 0.5,Good,Fabulous,No
+Yes,Male,BCA,80.0,62.0,75.0,Sports,0.5 to 1,Night,57500,Yes,Willing,0.5 to 1,2.5 to 3,Fabulous,Awful,No
+Yes,Female,BCA,90.2,61.6,85.0,Video Games,1 to 2,Anytime,57500,Yes,Willing,2+,0 to 0.5,Bad,Good,No
+Yes,Female,Commerce,98.0,80.0,85.0,Reading Books,1 to 2,Anytime,57500,Yes,Eager,1.5 to 2,3+,Good,Bad,No
+Yes,Male,BCA,70.0,63.0,71.0,Reading Books,1 to 2,Morning,57600,Yes,Willing,1 to 1.5,1 to 1.5,Good,Good,No
+Yes,Male,BCA,88.0,70.0,70.0,Reading Books,0.5 to 1,Anytime,57600,No,Neutral,0.5 to 1,2.5 to 3,Awful,Awful,No
+Yes,Male,BCA,90.0,75.0,70.0,Sports,2 to 3,Night,57700,Yes,Neutral,1.5 to 2,2 to 2.5,Bad,Good,No
+No,Male,BCA,79.0,65.0,80.0,Video Games,0 to 0.5,Morning,57700,No,Neutral,1.5 to 2,0.5 to 1,Bad,Bad,No
+Yes,Female,Commerce,82.0,70.0,80.0,Reading Books,2 to 3,Morning,57700,Yes,Eager,,0 to 0.5,Fabulous,Bad,Yes
+Yes,Male,Commerce,82.0,78.0,80.0,Reading Books,1 to 2,Anytime,57700,Yes,Eager,,1.5 to 2,Good,Bad,Yes
+Yes,Male,B.com ISM,75.0,75.0,65.0,Sports,1 to 2,Anytime,57800,Yes,Eager,1.5 to 2,1 to 1.5,Good,Good,No
+Yes,Male,BCA,70.0,78.0,75.0,Cinema,0 to 0.5,Anytime,57800,Yes,Willing,2+,0 to 0.5,Bad,Good,No
+Yes,Male,B.com ISM,79.0,62.0,60.0,Cinema,1 to 2,Morning,57900,Yes,Willing,,0 to 0.5,Good,Good,No
+Yes,Female,BCA,93.0,66.0,85.0,Reading Books,1 to 2,Anytime,57900,Yes,Eager,,0.5 to 1,Good,Good,No
+No,Male,B.com ISM,60.0,52.0,60.0,Video Games,1 to 2,Night,58000,Yes,Neutral,0.5 to 1,1 to 1.5,Bad,Bad,No
+Yes,Male,BCA,83.0,76.0,75.0,Sports,1 to 2,Anytime,58000,Yes,Willing,1.5 to 2,0.5 to 1,Good,Good,Yes
+No,Male,BCA,86.0,72.0,80.0,Reading Books,4+,Morning,58000,No,Willing,0.5 to 1,1 to 1.5,Good,Bad,No
+Yes,Male,B.com ISM,50.0,50.0,50.0,Cinema,0.5 to 1,Night,58100,Yes,Willing,,0.5 to 1,Bad,Good,Yes
+Yes,Male,Commerce,60.0,60.0,60.0,Sports,2 to 3,Night,58100,Yes,Neutral,2+,1 to 1.5,Good,Good,Yes
+Yes,Male,BCA,90.0,57.0,68.0,Reading Books,1 to 2,Anytime,58100,Yes,Eager,,0.5 to 1,Good,Bad,No
+Yes,Male,BCA,89.0,69.0,80.0,Sports,0.5 to 1,Anytime,58200,No,Reluctant,2+,0.5 to 1,Bad,Awful,Yes
+Yes,Male,BCA,79.4,61.33,80.87,Sports,1 to 2,Anytime,58200,Yes,Willing,1.5 to 2,1 to 1.5,Good,Bad,No
+Yes,Female,BCA,60.0,70.0,88.0,Cinema,0.5 to 1,Anytime,58200,Yes,Eager,,0.5 to 1,Good,Good,No
+Yes,Male,BCA,90.0,90.0,80.0,Cinema,1 to 2,Anytime,58400,Yes,Neutral,,1 to 1.5,Good,Bad,No
+Yes,Female,Commerce,93.6,85.0,93.0,Sports,1 to 2,Anytime,58400,Yes,Eager,,0 to 0.5,Good,Good,No
+Yes,Male,B.com ISM,76.0,47.0,30.0,Cinema,0 to 0.5,Morning,58500,Yes,Neutral,,0 to 0.5,Awful,Awful,No
+Yes,Female,BCA,70.0,59.0,58.0,Reading Books,1 to 2,Anytime,58500,No,Neutral,1.5 to 2,0 to 0.5,Bad,Good,No
+No,Male,B.com ISM,65.0,70.0,65.0,Video Games,0.5 to 1,Night,58500,Yes,Willing,0.5 to 1,0.5 to 1,Good,Good,No
+Yes,Male,BCA,70.0,60.0,70.0,Video Games,0 to 0.5,Anytime,58500,Yes,Neutral,2+,0.5 to 1,Bad,Good,No
+Yes,Female,BCA,80.0,73.0,80.0,Cinema,0 to 0.5,Anytime,58500,Yes,Willing,,0.5 to 1,Good,Bad,Yes
+Yes,Male,BCA,91.0,73.3,85.0,Sports,0.5 to 1,Morning,58500,Yes,Eager,0.5 to 1,0 to 0.5,Good,Good,No
+Yes,Female,Commerce,92.0,75.0,90.0,Cinema,3 to 4,Anytime,58500,Yes,Eager,2+,0 to 0.5,Bad,Good,No
+No,Male,B.com ISM,60.0,50.0,55.0,Sports,1 to 2,Anytime,58600,Yes,Willing,,1.5 to 2,Bad,Bad,No
+No,Female,BCA,70.0,80.0,70.0,Cinema,0.5 to 1,Morning,58600,Yes,Willing,1 to 1.5,0 to 0.5,Bad,Bad,No
+No,Female,Commerce,78.0,75.0,90.0,Sports,2 to 3,Anytime,58600,Yes,Eager,0.5 to 1,0 to 0.5,Good,Good,No
+No,Female,BCA,78.0,60.0,60.0,Cinema,1 to 2,Anytime,58800,Yes,Willing,1 to 1.5,1 to 1.5,Bad,Good,No
+Yes,Male,BCA,90.2,72.8,85.0,Video Games,1 to 2,Morning,58800,Yes,Willing,1 to 1.5,1 to 1.5,Good,Bad,No
+Yes,Female,Commerce,75.0,85.0,90.0,Cinema,2 to 3,Anytime,58800,Yes,Willing,0.5 to 1,0.5 to 1,Good,Good,No
+No,Male,B.com ISM,70.0,67.0,65.0,Video Games,1 to 2,Anytime,58900,Yes,Eager,,0 to 0.5,Good,Good,No
+Yes,Female,B.com Accounting & Finance,80.0,88.0,80.0,Sports,2 to 3,Anytime,58900,Yes,Eager,0.5 to 1,2 to 2.5,Good,Good,No
+Yes,Female,BCA,90.0,75.0,70.0,Cinema,0.5 to 1,Night,59000,Yes,Neutral,0.5 to 1,0 to 0.5,Bad,Good,No
+Yes,Male,BCA,89.8,63.3,73.3,Sports,0 to 0.5,Anytime,59100,Yes,Neutral,0.5 to 1,1 to 1.5,Bad,Good,No
+No,Male,BCA,82.0,55.0,75.0,Cinema,0.5 to 1,Anytime,59100,Yes,Neutral,0.5 to 1,0.5 to 1,Good,Bad,No
+Yes,Male,BCA,75.0,55.0,60.0,Sports,0.5 to 1,Morning,59200,Yes,Willing,1 to 1.5,0 to 0.5,Good,Good,No
+No,Female,B.com ISM,60.0,70.0,65.0,Sports,0 to 0.5,Night,59200,Yes,Reluctant,0.5 to 1,1 to 1.5,Good,Bad,No
+Yes,Female,Commerce,96.0,92.0,80.0,Cinema,3 to 4,Morning,59300,Yes,Willing,1.5 to 2,0 to 0.5,Good,Good,No
+No,Male,Commerce,90.0,73.0,80.0,Cinema,0.5 to 1,Morning,59300,Yes,Eager,0.5 to 1,3+,Bad,Bad,No
+Yes,Male,Commerce,75.0,75.0,80.0,Sports,0.5 to 1,Anytime,59300,Yes,Willing,1 to 1.5,1.5 to 2,Good,Good,No
+Yes,Male,Commerce,60.0,79.0,50.0,Cinema,0.5 to 1,Morning,59400,Yes,Unwilling,2+,1.5 to 2,Good,Bad,No
+No,Male,Commerce,70.0,70.0,70.0,Cinema,3 to 4,Anytime,59400,Yes,Eager,,0 to 0.5,Good,Good,Yes
+No,Female,BCA,85.0,63.0,74.0,Sports,0.5 to 1,Night,59400,Yes,Willing,2+,0.5 to 1,Bad,Bad,No
+Yes,Female,Commerce,85.0,74.0,75.0,Cinema,0 to 0.5,Anytime,59400,Yes,Willing,2+,2.5 to 3,Awful,Good,No
+Yes,Male,BCA,85.0,64.0,80.0,Cinema,0 to 0.5,Morning,59400,No,Willing,,0.5 to 1,Bad,Bad,No
+No,Male,BCA,61.8,68.3,66.3,Sports,2 to 3,Morning,59500,Yes,Neutral,0.5 to 1,1.5 to 2,Good,Good,No
+No,Male,Commerce,85.0,75.0,70.0,Sports,4+,Anytime,59500,Yes,Willing,1 to 1.5,2 to 2.5,Good,Bad,Yes
+Yes,Female,Commerce,80.0,89.0,95.0,Reading Books,2 to 3,Morning,59500,Yes,Eager,,0 to 0.5,Good,Good,No
+Yes,Female,B.com Accounting & Finance,72.0,75.0,80.0,Reading Books,2 to 3,Night,59600,Yes,Willing,0.5 to 1,0 to 0.5,Good,Good,Yes
+Yes,Male,Commerce,91.0,83.5,80.0,Video Games,1 to 2,Night,59600,Yes,Neutral,0.5 to 1,2 to 2.5,Bad,Good,No
+Yes,Female,BCA,72.6,62.6,85.0,Cinema,0 to 0.5,Night,59600,Yes,Eager,0.5 to 1,0.5 to 1,Good,Good,No
+Yes,Male,BCA,90.0,70.0,50.0,Reading Books,0.5 to 1,Morning,59700,No,Reluctant,,3+,Good,Bad,Yes
+Yes,Male,BCA,69.0,60.0,50.0,Sports,0 to 0.5,Anytime,59700,Yes,Willing,,1.5 to 2,Good,Awful,No
+Yes,Female,Commerce,80.0,75.0,70.0,Cinema,1 to 2,Morning,59700,Yes,Neutral,1 to 1.5,0 to 0.5,Good,Bad,No
+No,Female,BCA,7.4,79.0,75.0,Sports,1 to 2,Night,59700,Yes,Willing,1.5 to 2,0.5 to 1,Good,Bad,No
+Yes,Male,BCA,69.0,54.0,50.0,Cinema,0.5 to 1,Anytime,59800,Yes,Neutral,0.5 to 1,0.5 to 1,Bad,Good,No
+No,Male,Commerce,84.0,85.0,80.0,Cinema,0.5 to 1,Anytime,59800,Yes,Eager,0.5 to 1,3+,Good,Bad,No
+Yes,Female,BCA,94.0,69.0,85.0,Cinema,0.5 to 1,Anytime,59800,Yes,Neutral,0.5 to 1,2 to 2.5,Bad,Good,No
+No,Male,BCA,73.0,85.0,55.0,Sports,0 to 0.5,Morning,59900,Yes,Eager,1 to 1.5,0.5 to 1,Good,Good,No
+Yes,Female,BCA,90.0,75.0,70.0,Cinema,0.5 to 1,Night,59900,Yes,Neutral,0.5 to 1,2.5 to 3,Bad,Good,No
+Yes,Male,BCA,85.0,72.0,70.0,Sports,1 to 2,Anytime,60000,No,Neutral,1.5 to 2,1 to 1.5,Good,Bad,Yes
+Yes,Male,Commerce,84.0,76.0,70.0,Video Games,0.5 to 1,Anytime,60000,Yes,Willing,2+,1 to 1.5,Bad,Bad,Yes
+Yes,Female,Commerce,83.0,73.0,75.0,Cinema,0 to 0.5,Morning,60000,Yes,Willing,0.5 to 1,0 to 0.5,Good,Good,No
+Yes,Male,B.com Accounting & Finance,62.0,53.0,80.0,Sports,1 to 2,Morning,60000,Yes,Willing,0.5 to 1,2 to 2.5,Awful,Awful,Yes
+Yes,Male,BCA,80.0,60.0,70.0,Video Games,0 to 0.5,Anytime,60100,Yes,Neutral,,0 to 0.5,Good,Bad,No
+Yes,Male,Commerce,90.0,80.0,85.0,Cinema,3 to 4,Anytime,60100,Yes,Willing,1.5 to 2,3+,Good,Good,No
+No,Male,BCA,60.0,60.0,50.0,Cinema,0.5 to 1,Morning,60200,Yes,Willing,1 to 1.5,1 to 1.5,Good,Bad,No
+No,Male,B.com ISM,75.0,79.0,70.0,Reading Books,1 to 2,Morning,60200,Yes,Neutral,,0 to 0.5,Good,Awful,No
+Yes,Female,BCA,80.0,75.0,75.0,Reading Books,2 to 3,Morning,60200,Yes,Willing,,1 to 1.5,Good,Good,No
+No,Male,Commerce,75.0,65.0,75.0,Cinema,1 to 2,Morning,60200,Yes,Willing,1 to 1.5,1 to 1.5,Good,Good,No
+Yes,Male,BCA,92.0,69.0,85.0,Cinema,1 to 2,Night,60200,Yes,Willing,1 to 1.5,1 to 1.5,Good,Good,No
+No,Female,BCA,87.0,75.0,89.0,Cinema,0 to 0.5,Anytime,60200,No,Reluctant,,1 to 1.5,Good,Bad,No
+No,Male,BCA,60.0,65.0,70.0,Video Games,0 to 0.5,Anytime,60300,Yes,Willing,0.5 to 1,0.5 to 1,Good,Good,No
+Yes,Female,BCA,95.0,85.0,86.0,Reading Books,1 to 2,Night,60300,Yes,Neutral,1.5 to 2,0.5 to 1,Good,Good,No
+Yes,Male,BCA,88.0,58.0,50.0,Sports,0.5 to 1,Night,60400,Yes,Willing,1 to 1.5,2 to 2.5,Bad,Fabulous,No
+Yes,Female,B.com ISM,60.0,60.0,60.0,Cinema,0.5 to 1,Morning,60400,Yes,Willing,,0.5 to 1,Bad,Bad,No
+No,Male,B.com Accounting & Finance,75.0,75.0,75.0,Sports,0.5 to 1,Anytime,60500,Yes,Willing,2+,1.5 to 2,Good,Good,No
+Yes,Female,BCA,85.0,55.0,75.0,Video Games,2 to 3,Anytime,60500,Yes,Willing,0.5 to 1,1 to 1.5,Good,Good,Yes
+Yes,Female,BCA,75.0,64.0,74.0,Cinema,0 to 0.5,Anytime,60600,No,Reluctant,2+,0 to 0.5,Good,Good,No
+Yes,Female,Commerce,87.0,78.0,84.0,Cinema,0.5 to 1,Morning,60600,Yes,Willing,0.5 to 1,0.5 to 1,Good,Good,No
+No,Male,B.com ISM,86.0,86.0,89.0,Video Games,0.5 to 1,Anytime,60600,Yes,Neutral,1 to 1.5,1 to 1.5,Good,Good,No
+No,Male,B.com ISM,60.0,77.0,50.0,Video Games,0.5 to 1,Night,60700,Yes,Neutral,0.5 to 1,0.5 to 1,Bad,Bad,Yes
+Yes,Male,BCA,81.4,69.0,75.0,Cinema,0.5 to 1,Anytime,60700,No,Eager,1.5 to 2,0 to 0.5,Good,Awful,Yes
+No,Female,Commerce,72.0,80.0,79.0,Cinema,0 to 0.5,Anytime,60700,Yes,Neutral,2+,0 to 0.5,Good,Good,No
+Yes,Male,Commerce,55.0,50.0,60.0,Sports,0 to 0.5,Morning,60800,Yes,Neutral,,1 to 1.5,Good,Bad,No
+No,Female,BCA,84.0,64.0,75.0,Sports,2 to 3,Anytime,60900,Yes,Neutral,1 to 1.5,0.5 to 1,Bad,Good,No
+Yes,Male,Commerce,85.0,91.0,88.0,Video Games,0.5 to 1,Morning,60900,Yes,Reluctant,0.5 to 1,2 to 2.5,Bad,Bad,No
+Yes,Female,B.com Accounting & Finance,85.0,88.0,89.0,Sports,1 to 2,Anytime,60900,Yes,Eager,,1 to 1.5,Bad,Bad,No
+No,Male,Commerce,90.0,80.0,80.0,Sports,1 to 2,Morning,61000,No,Reluctant,1 to 1.5,0.5 to 1,Awful,Bad,No
+No,Male,BCA,75.0,70.0,60.0,Video Games,1 to 2,Morning,61200,Yes,Willing,1 to 1.5,0 to 0.5,Good,Bad,No
+No,Female,Commerce,76.0,63.0,70.0,Sports,0.5 to 1,Night,61200,Yes,Willing,1 to 1.5,0.5 to 1,Good,Good,Yes
+Yes,Male,Commerce,82.0,73.0,80.0,Cinema,0 to 0.5,Anytime,61200,Yes,Neutral,1.5 to 2,0 to 0.5,Fabulous,Bad,No
+Yes,Male,Commerce,70.0,70.0,90.0,Cinema,4+,Anytime,61200,Yes,Eager,2+,0.5 to 1,Awful,Bad,Yes
+No,Female,BCA,89.0,77.0,65.0,Sports,0.5 to 1,Night,61300,Yes,Eager,,1 to 1.5,Awful,Bad,Yes
+Yes,Female,Commerce,80.0,60.0,70.0,Sports,1 to 2,Night,61300,Yes,Willing,1 to 1.5,0.5 to 1,Bad,Good,No
+No,Male,BCA,70.0,60.0,60.0,Sports,0 to 0.5,Morning,61400,Yes,Neutral,1 to 1.5,1.5 to 2,Bad,Bad,No
+Yes,Male,B.com ISM,72.0,67.0,65.0,Video Games,0.5 to 1,Morning,61400,Yes,Neutral,2+,0.5 to 1,Bad,Bad,No
+Yes,Male,BCA,84.0,63.0,70.0,Sports,0 to 0.5,Morning,61400,Yes,Neutral,2+,3+,Good,Bad,No
+No,Male,Commerce,83.7,76.77,80.0,Sports,0.5 to 1,Night,61400,Yes,Willing,1 to 1.5,1 to 1.5,Good,Bad,No
+No,Female,Commerce,76.0,76.0,92.8,Sports,3 to 4,Anytime,61400,Yes,Eager,1 to 1.5,0.5 to 1,Good,Bad,No
+Yes,Female,BCA,75.0,70.0,70.0,Cinema,4+,Anytime,61500,Yes,Willing,2+,0.5 to 1,Good,Good,No
+No,Male,BCA,85.0,61.0,75.0,Reading Books,2 to 3,Anytime,61500,Yes,Neutral,0.5 to 1,0.5 to 1,Good,Good,No
+Yes,Male,BCA,85.0,60.0,60.0,Video Games,2 to 3,Anytime,61600,Yes,Neutral,,0.5 to 1,Fabulous,Good,No
+No,Male,BCA,88.0,88.0,80.0,Reading Books,1 to 2,Anytime,61600,No,Neutral,0.5 to 1,1.5 to 2,Bad,Awful,Yes
+Yes,Female,BCA,86.0,68.0,80.0,Video Games,2 to 3,Anytime,61600,Yes,Willing,0.5 to 1,0 to 0.5,Good,Bad,No
+Yes,Female,BCA,64.0,49.5,85.0,Reading Books,2 to 3,Night,61700,Yes,Willing,0.5 to 1,0.5 to 1,Bad,Bad,No
+Yes,Male,Commerce,89.0,79.0,70.0,Sports,0.5 to 1,Morning,61800,Yes,Willing,0.5 to 1,0.5 to 1,Bad,Bad,No
+Yes,Male,BCA,91.4,65.5,82.96,Cinema,0 to 0.5,Morning,61800,Yes,Willing,2+,0.5 to 1,Good,Good,No
+No,Male,BCA,77.0,70.0,60.0,Video Games,2 to 3,Anytime,61900,Yes,Willing,0.5 to 1,2 to 2.5,Good,Good,No
+Yes,Male,BCA,80.0,70.0,75.0,Sports,0 to 0.5,Morning,61900,Yes,Willing,1 to 1.5,0 to 0.5,Awful,Bad,No
+Yes,Female,BCA,85.0,90.0,85.0,Cinema,0.5 to 1,Anytime,61900,Yes,Eager,1 to 1.5,0.5 to 1,Good,Awful,No
+No,Female,B.com ISM,45.0,45.0,50.0,Sports,3 to 4,Night,62000,No,Willing,0.5 to 1,0.5 to 1,Fabulous,Good,No
+Yes,Male,B.com ISM,50.0,50.0,50.0,Reading Books,1 to 2,Anytime,62000,Yes,Willing,2+,1 to 1.5,Bad,Good,Yes
+No,Male,BCA,80.0,69.0,60.0,Sports,0.5 to 1,Morning,62100,Yes,Neutral,0.5 to 1,1 to 1.5,Awful,Good,No
+No,Male,BCA,75.0,60.0,80.0,Cinema,0 to 0.5,Anytime,62200,Yes,Neutral,1.5 to 2,2 to 2.5,Awful,Good,No
+Yes,Male,Commerce,65.0,75.0,97.0,Cinema,0 to 0.5,Anytime,62200,Yes,Neutral,1 to 1.5,0 to 0.5,Fabulous,Good,Yes
+No,Male,B.com Accounting & Finance,73.0,72.0,68.0,Reading Books,1 to 2,Night,62300,Yes,Willing,,0.5 to 1,Good,Good,No
+Yes,Male,BCA,69.5,61.0,55.0,Cinema,1 to 2,Anytime,62300,Yes,Neutral,2+,0.5 to 1,Awful,Bad,No
+Yes,Male,B.com ISM,56.0,57.0,67.0,Sports,0.5 to 1,Night,62300,Yes,Willing,0.5 to 1,1 to 1.5,Good,Good,No
+Yes,Female,Commerce,85.0,74.0,75.0,Cinema,0 to 0.5,Anytime,62300,Yes,Willing,2+,0 to 0.5,Awful,Good,No
+No,Female,B.com Accounting & Finance,80.2,70.0,69.0,Reading Books,4+,Morning,62400,No,Neutral,0.5 to 1,1 to 1.5,Good,Bad,No
+No,Male,BCA,50.0,50.0,65.0,Cinema,0 to 0.5,Night,62400,Yes,Reluctant,,0 to 0.5,Fabulous,Fabulous,Yes
+Yes,Male,BCA,80.0,60.0,65.0,Sports,1 to 2,Night,62400,Yes,Neutral,0.5 to 1,0.5 to 1,Bad,Good,No
+No,Female,B.com ISM,60.0,60.0,60.0,Cinema,0.5 to 1,Morning,62500,Yes,Willing,,0.5 to 1,Bad,Good,No
+No,Male,BCA,90.0,65.0,65.0,Sports,0 to 0.5,Anytime,62500,Yes,Willing,,1 to 1.5,Good,Bad,No
+Yes,Male,BCA,75.0,65.0,65.0,Sports,0.5 to 1,Morning,62500,Yes,Neutral,0.5 to 1,0 to 0.5,Good,Good,No
+Yes,Male,BCA,80.0,60.0,68.0,Video Games,0.5 to 1,Night,62600,Yes,Eager,1.5 to 2,0.5 to 1,Bad,Good,No
+Yes,Female,B.com Accounting & Finance,71.2,79.5,70.0,Cinema,0.5 to 1,Anytime,62600,Yes,Neutral,0.5 to 1,1 to 1.5,Good,Bad,No
+No,Male,B.com Accounting & Finance,70.0,80.0,75.0,Reading Books,4+,Anytime,62700,Yes,Eager,1.5 to 2,0.5 to 1,Bad,Good,No
+Yes,Female,Commerce,91.0,70.0,80.0,Cinema,1 to 2,Anytime,62700,Yes,Neutral,0.5 to 1,0.5 to 1,Bad,Awful,No
+Yes,Female,BCA,80.0,60.0,60.0,Sports,0.5 to 1,Anytime,62800,Yes,Willing,2+,0 to 0.5,Good,Good,No
+Yes,Male,B.com ISM,80.0,70.0,70.0,Cinema,1 to 2,Anytime,62800,Yes,Willing,2+,0.5 to 1,Bad,Bad,Yes
+Yes,Male,BCA,91.0,60.0,60.0,Sports,0.5 to 1,Anytime,62900,Yes,Reluctant,1.5 to 2,0 to 0.5,Bad,Bad,Yes
+No,Male,BCA,75.0,73.8,65.0,Video Games,1 to 2,Morning,62900,Yes,Neutral,1 to 1.5,0.5 to 1,Good,Good,No
+Yes,Male,BCA,71.0,66.0,80.0,Video Games,0.5 to 1,Morning,62900,Yes,Willing,1 to 1.5,2 to 2.5,Good,Good,No
+No,Female,BCA,60.0,55.0,65.0,Cinema,2 to 3,Night,63000,Yes,Willing,1 to 1.5,2 to 2.5,Bad,Bad,No
+Yes,Male,Commerce,81.0,64.0,85.0,Sports,1 to 2,Anytime,63000,Yes,Neutral,1.5 to 2,0.5 to 1,Good,Good,No
+No,Male,BCA,50.0,55.0,50.0,Cinema,0 to 0.5,Anytime,63100,Yes,Willing,0.5 to 1,1.5 to 2,Good,Awful,No
+No,Female,B.com ISM,45.0,45.0,50.0,Sports,3 to 4,Night,63200,No,Willing,0.5 to 1,2.5 to 3,Fabulous,Good,No
+No,Female,BCA,54.0,51.0,66.0,Sports,0.5 to 1,Morning,63200,Yes,Neutral,,1 to 1.5,Bad,Good,No
+No,Male,BCA,80.5,53.0,80.0,Sports,2 to 3,Morning,63200,Yes,Willing,1 to 1.5,1.5 to 2,Good,Awful,No
+No,Male,Commerce,87.0,84.0,92.0,Sports,0.5 to 1,Morning,63200,Yes,Willing,1 to 1.5,0.5 to 1,Fabulous,Bad,No
+No,Female,B.com ISM,60.0,70.0,70.0,Sports,1 to 2,Anytime,63400,Yes,Willing,1 to 1.5,0 to 0.5,Good,Bad,No
+No,Female,BCA,70.0,55.0,70.0,Reading Books,1 to 2,Night,63400,Yes,Willing,1.5 to 2,0.5 to 1,Good,Good,No
+Yes,Male,BCA,80.0,60.0,80.0,Sports,2 to 3,Night,63400,Yes,Willing,0.5 to 1,1 to 1.5,Good,Good,No
+Yes,Male,Commerce,70.0,60.0,60.0,Sports,2 to 3,Morning,63500,Yes,Neutral,,0.5 to 1,Good,Bad,Yes
+No,Male,BCA,86.5,65.3,79.5,Sports,0 to 0.5,Morning,63500,Yes,Willing,2+,1 to 1.5,Good,Good,No
+Yes,Male,BCA,84.0,65.0,85.0,Cinema,1 to 2,Night,63500,Yes,Willing,0.5 to 1,2 to 2.5,Good,Good,No
+No,Male,B.com ISM,46.0,48.0,60.0,Sports,1 to 2,Anytime,63600,Yes,Neutral,,1 to 1.5,Bad,Bad,No
+Yes,Female,BCA,79.0,61.0,70.0,Cinema,1 to 2,Night,63600,Yes,Neutral,1.5 to 2,0 to 0.5,Awful,Awful,No
+Yes,Male,Commerce,70.0,75.0,70.0,Sports,0 to 0.5,Anytime,63600,Yes,Willing,1 to 1.5,0.5 to 1,Good,Good,Yes
+Yes,Male,BCA,78.0,67.0,80.0,Cinema,3 to 4,Anytime,63600,Yes,Eager,,1 to 1.5,Good,Good,No
+Yes,Female,BCA,88.8,71.0,85.0,Cinema,3 to 4,Morning,63600,Yes,Eager,1 to 1.5,1 to 1.5,Good,Good,No
+Yes,Male,BCA,95.0,90.0,90.0,Cinema,1 to 2,Morning,63600,Yes,Willing,2+,1.5 to 2,Good,Good,Yes
+No,Male,BCA,60.0,65.0,60.0,Cinema,0 to 0.5,Anytime,63700,Yes,Eager,,1 to 1.5,Bad,Bad,No
+Yes,Male,BCA,78.0,58.0,69.0,Sports,0 to 0.5,Morning,63900,No,Unwilling,,0.5 to 1,Good,Good,No
+Yes,Female,BCA,59.0,54.0,80.0,Reading Books,0.5 to 1,Morning,63900,Yes,Willing,,0.5 to 1,Bad,Good,No
+Yes,Male,Commerce,85.0,80.0,80.0,Cinema,0.5 to 1,Anytime,63900,Yes,Eager,,0.5 to 1,Awful,Bad,No
+No,Male,Commerce,81.0,80.0,70.0,Cinema,0.5 to 1,Night,64100,Yes,Neutral,2+,0 to 0.5,Good,Fabulous,Yes
+Yes,Male,Commerce,85.0,80.0,60.0,Sports,0.5 to 1,Night,64200,Yes,Willing,1 to 1.5,0 to 0.5,Good,Bad,No
+Yes,Female,B.com Accounting & Finance,64.0,88.0,70.0,Sports,1 to 2,Morning,64200,Yes,Reluctant,1 to 1.5,0 to 0.5,Bad,Good,No
+Yes,Male,BCA,79.0,65.0,75.0,Video Games,0.5 to 1,Morning,64200,Yes,Willing,2+,0.5 to 1,Good,Bad,No
+Yes,Female,Commerce,86.0,78.0,85.0,Reading Books,1 to 2,Anytime,64200,Yes,Willing,1.5 to 2,0.5 to 1,Bad,Good,No
+No,Male,BCA,78.0,60.0,75.0,Sports,0.5 to 1,Anytime,64300,Yes,Eager,0.5 to 1,2.5 to 3,Good,Bad,No
+No,Male,BCA,85.8,63.66,80.0,Sports,0 to 0.5,Anytime,64300,Yes,Willing,1.5 to 2,0 to 0.5,Good,Good,No
+Yes,Female,Commerce,93.0,85.0,90.0,Reading Books,1 to 2,Night,64300,Yes,Willing,0.5 to 1,0.5 to 1,Good,Good,No
+Yes,Male,B.com ISM,70.0,60.0,50.0,Sports,0.5 to 1,Morning,64500,Yes,Willing,,3+,Bad,Bad,No
+No,Male,BCA,60.0,50.0,50.0,Sports,0.5 to 1,Morning,64500,Yes,Willing,0.5 to 1,0.5 to 1,Bad,Good,Yes
+No,Male,BCA,60.0,65.0,65.0,Sports,0 to 0.5,Morning,64500,Yes,Willing,0.5 to 1,1.5 to 2,Good,Good,No
+Yes,Male,BCA,89.5,69.7,70.0,Cinema,0.5 to 1,Anytime,64500,Yes,Willing,,0.5 to 1,Good,Good,No
+Yes,Male,B.com Accounting & Finance,90.0,85.0,82.0,Cinema,1 to 2,Anytime,64500,Yes,Neutral,,0.5 to 1,Good,Good,No
+No,Female,BCA,90.0,90.0,90.0,Cinema,0 to 0.5,Night,64500,Yes,Eager,1 to 1.5,0 to 0.5,Awful,Good,No
+Yes,Male,BCA,62.0,61.3,53.0,Cinema,0 to 0.5,Night,130000,Yes,Eager,1 to 1.5,1 to 1.5,Bad,Bad,No
