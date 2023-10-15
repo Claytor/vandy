@@ -33,9 +33,6 @@ Overall graph should be bigger. 1 facet for each department
       - Same axis for all facets
       - Be careful about the axis
 
-
-
-
 fig_job_hobby.update_layout(xaxis_title='Percent',
                             yaxis_title='Hobby',
                             legend_title='Part-Time Job?',
