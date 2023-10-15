@@ -33,18 +33,3 @@ Overall graph should be bigger. 1 facet for each department
       - Same axis for all facets
       - Be careful about the axis
 
-fig_job_hobby.update_layout(xaxis_title='Percent',
-                            yaxis_title='Hobby',
-                            legend_title='Part-Time Job?',
-                            paper_bgcolor='rgba(0,0,0,0)',
-                            plot_bgcolor='rgba(0,0,0,0)',
-                            title={'y':0.95,
-                                   'x':0.5,
-                                   'xanchor': 'center',
-                                   'yanchor': 'top'},
-                             yaxis=dict(categoryorder='array', categoryarray=hobby_job_order))
-
-
-
-
-
