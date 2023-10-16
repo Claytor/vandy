@@ -33,36 +33,6 @@ Overall graph should be bigger. 1 facet for each department
       - Same axis for all facets
       - Be careful about the axis
 
-# Saving figure as html
-fig_happy_likely_1.write_html('../dashboard/plotly_html/q5_happy_likely_1.html')
-
-
-# Creating a grouped bar chart
-fig_happy_likely_1 = px.bar(happy_likely_neutral, x='percentage', y='degree_happy',
-             color='career_in_degree',
-             title="Degree Happiness and Career Pursuit",
-             labels={'percentage': 'Percent',
-                     'career_in_degree': 'Career in Degree',
-                     'degree_happy': 'Happy With Degree'},
-             barmode='relative')
-happy_likely_order = ['No', 'Yes']
-# Update layout and labels
-fig_happy_likely_1.update_layout(xaxis_title='Percent',
-                  yaxis_title='Degree Satisfaction',
-                  legend_title='Career in Degree',
-                  paper_bgcolor='rgba(0,0,0,0)',
-                  plot_bgcolor='rgba(0,0,0,0)',
-                  title={'y':0.95,
-                         'x':0.5,
-                         'xanchor': 'center',
-                         'yanchor': 'top'},
-                  yaxis=dict(categoryorder='array',    
-                             categoryarray=happy_likely_order))
-fig_happy_likely_1.show()
-
-# Saving figure as html
-fig_happy_likely_1.write_html('../dashboard/plotly_html/q5_happy_likely_1.html')
-
 
 color_map = {
     'Category1': '#ff0000',  # red
@@ -71,5 +41,25 @@ color_map = {
 }
 
 
+
+yes_no = {}
+
 paper_bg='rgba(0,0,0,0)'
 plot_bg='rgba(0,0,0,0)
+
+
+
+vandy yellow = c6942b
+vandy 'black" (dark gray) = 222222
+vandy 'light black" (dark gray) = 383838
+vandy website background = 
+
+color_discrete_sequence=color_yn
+
+happy_likely_binary_map = {
+    'Eager': 'Likely',
+    'Willing': 'Likely',
+    'Neutral': 'Likely',
+    'Reluctant': 'Unlikely',
+    'Unwilling': 'Unlikely'
+}
