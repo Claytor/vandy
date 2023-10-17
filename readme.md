@@ -28,6 +28,8 @@ Overall graph should be bigger. 1 facet for each department
 
 - hypothesis
    - if you are more happy with your degree then you are more likely to seek out a position within the area of your degree?
+
+
 ** - Recreate #5 faceted by department** 
       - Do only for neutral, willing, and eager
       - Same axis for all facets
@@ -56,10 +58,15 @@ vandy website background =
 
 color_discrete_sequence=color_yn
 
-happy_likely_binary_map = {
-    'Eager': 'Likely',
-    'Willing': 'Likely',
-    'Neutral': 'Likely',
-    'Reluctant': 'Unlikely',
-    'Unwilling': 'Unlikely'
+department
+
+'B.com ISM' : 'ISM',
+'B.com Accounting & Finance' : 'A&F',
+
 }
+
+
+Update Layout
+
+
+legend=dict(font=dict(size= 18),
